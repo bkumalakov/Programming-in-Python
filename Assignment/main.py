@@ -1,6 +1,6 @@
 # глобальные переменные
 userChoice = 0      # переменная, которая хранит выбор пользователя
-values = []         # Задание 1: объявить переменную, котоая будет хранить 15 значений
+values = [12, 32, 2, 0]         # Задание 1: объявить переменную, котоая будет хранить 15 значений
 
 
 # Выводим меню пользователя
@@ -67,15 +67,21 @@ while userChoice != 6:
                 print('База пустая! Не можем искать!')
 
         elif userChoice == 5:
-            # если произойдет хотябы 1 обмен местами, то повторить весь проход по list
+            if len(values) != 0:
+                print('Список до:', values)
+                swapped = False
 
-            # пройтись по всей длинне list
+                while swapped is False:
+                    for i in range(0, len(values)-1):
+                        # если values[i] > values[i+1], поменять их местами
+                        if values[i] > values[i+1]:
+                            current = values[i]
+                            values[i] = values[i+1]
+                            values[i + 1] = current
 
-            # если values[i] > values[i+1] больше, поменять их местами
-
-
-
-
+                print('Список после:', values)
+            else:
+                print('База пуста!')
 
         print('\n Меню:')
         print('1. Вывести на экран все знаения')

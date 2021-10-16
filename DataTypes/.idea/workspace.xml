@@ -44,7 +44,19 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -59,33 +71,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="402" y="0" key="#main" timestamp="1601003258823">
+    <state width="1345" height="146" key="GridCell.Tab.0.bottom" timestamp="1634363696957">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="402" y="0" key="#main/0.0.1366.728@0.0.1366.728" timestamp="1601003258823" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601261124958">
+    <state width="1345" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1634363696957" />
+    <state width="1345" height="146" key="GridCell.Tab.0.center" timestamp="1634363696956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601261124958" />
-    <state width="1345" height="243" key="GridCell.Tab.0.bottom" timestamp="1601264937058">
+    <state width="1345" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1634363696956" />
+    <state width="1345" height="146" key="GridCell.Tab.0.left" timestamp="1634363696956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="243" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601264937058" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600056549575" />
-    <state width="1345" height="243" key="GridCell.Tab.0.center" timestamp="1601264937058">
+    <state width="1345" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1634363696956" />
+    <state width="1345" height="146" key="GridCell.Tab.0.right" timestamp="1634363696957">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="243" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601264937058" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600056549575" />
-    <state width="1345" height="243" key="GridCell.Tab.0.left" timestamp="1601264937057">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="243" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601264937057" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600056549575" />
-    <state width="1345" height="243" key="GridCell.Tab.0.right" timestamp="1601264937058">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="243" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601264937058" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600056549575" />
+    <state width="1345" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1634363696957" />
   </component>
 </project>
